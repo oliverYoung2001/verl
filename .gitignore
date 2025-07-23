@@ -1,4 +1,8 @@
-
+# from yhy
+logs/
+my_scripts/
+*.whl
+# End
 **/*.pt
 **/checkpoints
 **/wget-log
